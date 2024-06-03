@@ -1,0 +1,142 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .section-links {
+        color: #ff0033;
+      }
+
+      .donate-button {
+        color: white;
+        background-color: #ff0033;
+        padding: 16px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+      }
+
+      .icons-size {
+        padding: 0;
+        max-width: 180px;
+      }
+
+      .unsubscribe {
+        color: #ababab;
+        text-decoration: none;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .icons-size {
+        padding: 0;
+        max-width: 180px;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="white">
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image href="https://p2p.charityengine.net/2023thp?sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ1NHx8MHwwfDIxNTk0NzUyMnwxMDAwfDB8MHx8NzI0NjgwfDA1" width="354px" src="http://127.0.0.1:5500/images/heroes-logo.jpeg" alt="hero" />
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="2px" border-style="solid" border-color="white" width="60%" padding="10px 0 1px 0" />
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="white" font-size="20px" font-weight="400" font-style="italic" align="center" padding="10px 10px 0 10px ">Setting goals is the first step in turning the invisible into the visible</mj-text>
+        <mj-text color="white" font-size="20px" font-weight="400" font-style="italic" align="center" padding="6px 10px 10px 10px ">-Tony Robbins</mj-text>
+        <mj-text color="white" font-size="36px" font-family="Arial" align="center" font-weight="bold" font-style="italic">FORBES HIGHLIGHTS THP</mj-text>
+        <mj-image href="https://www.forbes.com/sites/jamiegold/2023/11/11/wounded-warriors-to-get-new-mountain-cabins-at-veteran-retreat-center/?sh=2f2a633b68b4&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ1NXx8MHwwfDIxNTk1Nzk4MHwxMDAwfDB8MHx8NzI0NjgwfDA1" width="548px" src="http://127.0.0.1:5500/images/icehouse-canyon.png" alt="hero" padding="0 0 0 0" />
+        <mj-text color="white" font-size="16px" font-family="Helvetica" align="center" font-weight="bold">MAKE A DIFFERENCE</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">As we approach our upcoming groundbreaking ceremony, we are excited to share an article from Forbes highlighting the construction of our Veteran Retreat Center. We want to thank author, Jamie Gold for her dedicated coverage of military-related support.</mj-text>
+        <mj-text font-size="20px">
+          <a href="https://www.forbes.com/sites/jamiegold/2023/11/11/wounded-warriors-to-get-new-mountain-cabins-at-veteran-retreat-center/?sh=44865e8768b4&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ1Nnx8MHwwfDIxNTk1Nzk2M3wxMDAwfDB8MHx8NzI0NjgwfDA1" class="section-links">Forbes Article</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="2px" border-style="solid" border-color="white" width="60%" padding="10px 0 1px 0" />
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="white" font-size="26px" font-family="Arial" align="center" font-weight="bold">VRC TEAM SPOTLIGHT</mj-text>
+        <mj-image href="https://www.forbes.com/sites/jamiegold/2023/11/11/wounded-warriors-to-get-new-mountain-cabins-at-veteran-retreat-center/?sh=2f2a633b68b4&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ1NXx8MHwwfDIxNTk1Nzk4MHwxMDAwfDB8MHx8NzI0NjgwfDA1" width="548px" src="http://127.0.0.1:5500/images/meet-team.png" alt="hero" padding="0 0 0 0" />
+        <mj-text color="white" font-size="16px" font-family="Helvetica" align="center" font-weight="bold">THE YOUNGREN DIFFERENCE</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">Scott Youngren and his company, Youngren Construction, have been actively involved in building Homes for Our Troops since 2010. They consider it an honor to support veterans who have bravely served their country and are passionate about this cause. For that reason, The Heroes Project has partnered with Youngren Construction to build the Veteran Retreat Center.</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">Youngren Construction is committed to delivering exceptional service that surpasses clients' expectations. They possess the capacity to manage projects of varying scales and consistently aim to provide unparalleled support. With a wealth of experience spanning over three decades, they have earned a reputation for their unwavering dedication to excellence, dependability, and client satisfaction. We are proud to be partnering with Youngren Construction and are excited to work with them on this significant project.</mj-text>
+        <mj-text font-size="20px">
+          <a href="https://youngrenconstruction.com/" class="section-links">https://youngrenconstruction.com/</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="2px" border-style="solid" border-color="white" width="60%" padding="10px 0 1px 0" />
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image href="https://www.tonyrobbins.com" width="548px" src="http://127.0.0.1:5500/images/tony-robins.png" alt="hero" padding="0 0 0 0" />
+        <mj-text color="white" font-size="16px" font-family="Helvetica" align="center" font-weight="bold">THE YOUNGREN DIFFERENCE</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">Scott Youngren and his company, Youngren Construction, have been actively involved in building Homes for Our Troops since 2010. They consider it an honor to support veterans who have bravely served their country and are passionate about this cause. For that reason, The Heroes Project has partnered with Youngren Construction to build the Veteran Retreat Center.</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">Youngren Construction is committed to delivering exceptional service that surpasses clients' expectations. They possess the capacity to manage projects of varying scales and consistently aim to provide unparalleled support. With a wealth of experience spanning over three decades, they have earned a reputation for their unwavering dedication to excellence, dependability, and client satisfaction. We are proud to be partnering with Youngren Construction and are excited to work with them on this significant project.</mj-text>
+        <mj-text font-size="20px">
+          <a href="https://www.tonyrobbins.com/" class="section-links">https://www.tonyrobbins.com/</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-width="2px" border-style="solid" border-color="white" width="60%" padding="10px 0 1px 0" />
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="white" font-size="26px" font-family="Arial" align="center" font-weight="bold">COMMUNITY SPOTLIGHT</mj-text>
+        <mj-image href="https://theheroesproject.org/?sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2NXx8MHwwfDIxNTk2MTAxMnwxMDAwfDB8MHx8NzI0NjgwfDA1" width="387px" src="http://127.0.0.1:5500/images/community-spotlight.png" alt="hero" padding="0 0 0 0" />
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">This month, we want to put the spotlight on Hiking on Purpose, a group led by Yvonne Temal for the past four years. Hiking On Purpose came out in full force for the Climb for Heroes’ 10th anniversary. Since 2017, they have consistently participated in our annual event.</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial" align="center" font-weight="400" line-height="20px">Among the team members, three (Diego, Alex, and Pablo) are veterans who have found solace in hiking activities. Yvonne, although not a veteran herself, is motivated by a profound sense of duty to support those who have served. THP is truly grateful for Hiking on Purpose and their participation in Climb for Heroes. Thank you!</mj-text>
+    </mj-section>
+
+    <mj-divider border-width="2px" border-style="solid" border-color="white" width="60%" padding="10px 0 1px 0" />
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="white" font-size="16px" font-family="Arial">Thank you for supporting THP and our injured veterans,</mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial"></mj-text>
+        <mj-text color="white" font-size="16px" font-family="Arial">JJ, Tim, and Team THP</mj-text>
+        <mj-text padding-top="24px" align="center" font-size="20px" font-weight="bold">
+          <a href="https://donate.theheroesproject.org/Default.aspx?tsid=16196&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2MHx8MHwwfDIxNTk2MDk0NnwxMDAwfDB8MHx8NzI0NjgwfDA1" class="donate-button">Donate Now!</a>
+        </mj-text>
+        <mj-text padding="32px 0 0 0" color="white" font-size="14px" font-family="Arial" font-weight="bold" align="center">Connect With Us</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" background-color="black">
+      <mj-group css-class="icons-size">
+        <mj-column padding="0">
+          <mj-image href="https://www.facebook.com/theheroesproject/?fref=ts&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2MXx8MHwwfDIxNTk2MDQ3MnwxMDAwfDB8MHx8NzI0NjgwfDA1" padding="0" width="32px" src="http://127.0.0.1:5500/images/facebook.png" alt="hero" />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image href="https://x.com/HeroesProjectUS?lang=en&sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2Mnx8MHwwfDIxNTk2MDk3MnwxMDAwfDB8MHx8NzI0NjgwfDA1" padding="0" width="32px" src="http://127.0.0.1:5500/images/x.png" alt="hero" />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image href="https://www.instagram.com/theheroesproject?sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2M3x8MHwwfDIxNTk2MDk4NHwxMDAwfDB8MHx8NzI0NjgwfDA1" padding="0" width="32px" src="http://127.0.0.1:5500/images/instagram.png" alt="hero" />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image href="https://www.youtube.com/channel/UC3wCpG3H1ybkp3jB2_RAKBQ/featuredutube.com" padding="0" width="32px" src="http://127.0.0.1:5500/images/youtube.png" alt="hero" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text padding-top="10px" align="center" font-size="20px" font-weight="bold">
+          <a href="https://theheroesproject.org/?sm_guid=NzMwODgxfDMyNTQxNjIzfC0xfGNzYXJqYXJhbWlsbG84OUB5YWhvby5jb218Njg5OTQ2NXx8MHwwfDIxNTk2MTAxMnwxMDAwfDB8MHx8NzI0NjgwfDA1" class="donate-button">VISIT OUR WEBSITE</a>
+        </mj-text>
+        <mj-text padding-top="32px" align="center" font-size="10px" font-weight="bold">
+          <a href="#" class="unsubscribe">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
